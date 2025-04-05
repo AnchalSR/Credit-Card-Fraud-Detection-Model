@@ -64,3 +64,13 @@ Pandas / NumPy
 Scikit-learn
 Streamlit
 Jupyter Notebook
+
+
+## 🔗 Live Streamlit App
+👉 [Click here to try the model in action](https://your-streamlit-link.streamlit.app)
+
+This release contains:
+- Trained logistic regression model
+- Streamlit frontend
+- Undersampling logic
+
